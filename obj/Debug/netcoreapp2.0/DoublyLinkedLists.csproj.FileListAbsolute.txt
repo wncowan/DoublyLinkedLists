@@ -1,0 +1,11 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/bin/Debug/netcoreapp2.0/DoublyLinkedLists.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/bin/Debug/netcoreapp2.0/DoublyLinkedLists.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/bin/Debug/netcoreapp2.0/DoublyLinkedLists.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/bin/Debug/netcoreapp2.0/DoublyLinkedLists.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/bin/Debug/netcoreapp2.0/DoublyLinkedLists.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/obj/Debug/netcoreapp2.0/DoublyLinkedLists.csprojResolveAssemblyReference.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/obj/Debug/netcoreapp2.0/DoublyLinkedLists.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/obj/Debug/netcoreapp2.0/DoublyLinkedLists.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/obj/Debug/netcoreapp2.0/DoublyLinkedLists.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/obj/Debug/netcoreapp2.0/DoublyLinkedLists.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore2/DoublyLinkedLists/obj/Debug/netcoreapp2.0/DoublyLinkedLists.pdb
